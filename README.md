@@ -29,6 +29,7 @@
       将go工作环境加入环境变量
       
  3.go程序运行，测试与安装
+ 
       go run xxx.go
       
       go test
