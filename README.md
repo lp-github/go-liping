@@ -30,5 +30,7 @@
       
  3.go程序运行，测试与安装
       go run xxx.go
+      
       go test
+      
       go install
