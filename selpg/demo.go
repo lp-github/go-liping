@@ -75,7 +75,7 @@ func process_input() {
 		var err error
 		file, err = os.Open(sa.in_filename)
 		if err == nil {
-			fmt.Println("file open successfully")
+			//fmt.Println("file open successfully")
 		} else {
 			fmt.Println(err)
 		}
